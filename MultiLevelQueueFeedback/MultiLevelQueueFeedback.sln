@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "MultiLevelQueueFeedback", "MultiLevelQueueFeedback.pyproj", "{F5366983-3DC5-417E-A73A-B5313DC99B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5366983-3DC5-417E-A73A-B5313DC99B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5366983-3DC5-417E-A73A-B5313DC99B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61B622AC-029C-40B7-80C7-1EC46C6ECBFD}
+	EndGlobalSection
+EndGlobal
