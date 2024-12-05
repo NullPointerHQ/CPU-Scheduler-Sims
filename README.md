@@ -1,4 +1,9 @@
 # CPU Scheduler Algorithm Simulations
+![Figure 0: Cover Image](https://www.milesweb.in/blog/wp-content/uploads/2024/02/what-is-cpu.png)
+
+⚖ _Cover Image credits:Ujwala. (2022, September 15). Know All About CPU &#38; GPU. Web Hosting Blogs by MilesWeb__
+
+_WordPress, Cloud &#38; SEO Tips. [Link](https://www.milesweb.in/blog/hosting/server/cpu-vs-gpu/)_
 ### Table of Contents
 - [Introduction](https://github.com/NullPointerHQ/CPU-Scheduler-Sims/tree/main?tab=readme-ov-file#introduction)
   - [Project-Objectives](https://github.com/NullPointerHQ/CPU-Scheduler-Sims/tree/main?tab=readme-ov-file#project-objectives)
