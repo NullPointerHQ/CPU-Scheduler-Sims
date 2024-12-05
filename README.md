@@ -1,16 +1,6 @@
 # CPU Scheduler Algorithm Simulations
 ### Table of Contents
-- [Introduction](#introduction)
-  - [Objectives](#Project-Objectives)
-  - [Prerequisites](#Prerequisites )
-  - [Repository Guide](#Repository-Guide)
-  - [Assumptions](#Assumptions)
-  - [Configuration Options](#Configuration-Options) 
-- [Algorithm Overviews](Algorithim-Overviews)
-- [First Come First Served](First-Come-First-Served)
-- [Shortest Job First](Shortest-Job-First)
-- [Multilevel Feedback Queue](Multilevel-Feedback-Queue)
-  - [The time_lord function](The-time_lord-function)
+_Broken right now, will add in a later commit_
 
 ## Introduction
 ### Project Objectives
