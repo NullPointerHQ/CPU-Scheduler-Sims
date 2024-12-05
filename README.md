@@ -1,6 +1,6 @@
 # CPU Scheduler Algorithm Simulations
 ### Table of Contents
-_Broken right now, will add in a later commit_
+- [Introduction](https://github.com/NullPointerHQ/CPU-Scheduler-Sims/tree/main?tab=readme-ov-file#introduction)
 
 ## Introduction
 ### Project Objectives
