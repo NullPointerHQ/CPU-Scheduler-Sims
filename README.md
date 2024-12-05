@@ -1,7 +1,17 @@
 # CPU Scheduler Algorithm Simulations
 ### Table of Contents
 - [Introduction](https://github.com/NullPointerHQ/CPU-Scheduler-Sims/tree/main?tab=readme-ov-file#introduction)
-
+  - [#Project-Objectives](https://github.com/NullPointerHQ/CPU-Scheduler-Sims/tree/main?tab=readme-ov-file#project-objectives)
+  - [Prerequisites](https://github.com/NullPointerHQ/CPU-Scheduler-Sims/tree/main?tab=readme-ov-file#prerequisites)
+  - [Repository Guide](https://github.com/NullPointerHQ/CPU-Scheduler-Sims/tree/main?tab=readme-ov-file#repository-guide)
+  - [Assumptions](https://github.com/NullPointerHQ/CPU-Scheduler-Sims/tree/main?tab=readme-ov-file#assumptions)
+  - [Configuration Options](https://github.com/NullPointerHQ/CPU-Scheduler-Sims/tree/main?tab=readme-ov-file#configuration-options) 
+- [Algorithm Overviews](https://github.com/NullPointerHQ/CPU-Scheduler-Sims/tree/main?tab=readme-ov-file#algorithm-overviews)
+- [First Come First Served](https://github.com/NullPointerHQ/CPU-Scheduler-Sims/tree/main?tab=readme-ov-file#first-come-first-served)
+- [Shortest Job First](https://github.com/NullPointerHQ/CPU-Scheduler-Sims/tree/main?tab=readme-ov-file#shortest-job-first)
+- [Multilevel Feedback Queue](https://github.com/NullPointerHQ/CPU-Scheduler-Sims/tree/main?tab=readme-ov-file#multilevel-feedback-queue)
+  - [The time_lord function](https://github.com/NullPointerHQ/CPU-Scheduler-Sims/tree/main?tab=readme-ov-file#the-time_lord-function)
+- [Results Interpretation](https://github.com/NullPointerHQ/CPU-Scheduler-Sims/tree/main?tab=readme-ov-file#interpretation-of-results)
 ## Introduction
 ### Project Objectives
 To simulate how a CPU schedules processes using three algorithms and display the results. The algorithms are:
